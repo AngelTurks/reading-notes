@@ -5,4 +5,4 @@ a place to view all notes of codeX
 
 ### Third heading
 
-https://USERNAME.github.io/reading-notes/
+[Github](https://github.com)
