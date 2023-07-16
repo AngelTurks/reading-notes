@@ -1,6 +1,6 @@
 # What is Markdown?
 
-Markdown is a mekup language thay you acn use to add formatting elements to plaintext text documents.
+Markdown is a markup language that you can use to add formatting elements to plaintext text documents.
 
 ## Why do we use Markdown?
 
