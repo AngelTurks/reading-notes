@@ -7,3 +7,4 @@
 #### Three reminders that keep me in a growth midset are : never give up, be patient, and learn your mistakes.
 
 [github](https://github.com/angellcakee)
+ 
