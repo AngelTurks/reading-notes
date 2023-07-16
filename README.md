@@ -1,3 +1,7 @@
 # reading-notes
 
-## [image](![IMG_2496](https://github.com/angellcakee/reading-notes/assets/105089577/f9d9dc04-0d2b-4619-a748-fd175effd1b6))
+## Hi my name is Angel, I'm from Plain Dealing La, I graduated High School in 2019. I started learning about programming in 2020 and I really enjoy it now.
+
+### Growth Mindset means that if you believe in yourself and work hard you will accomplish anything you want to.
+
+#### Three reminders that keep me in a growth midset are : never give up, be patient, and learn your mistakes.
