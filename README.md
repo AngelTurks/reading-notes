@@ -7,7 +7,7 @@
 
 ### Growth Mindset means that if you believe in yourself and work hard you will accomplish anything you want to.
 
-#### Three reminders that keep me in a growth midset are : never give up, be patient, and learn your mistakes.
+#### Three reminders that keep me in a growth mindset are: never give up, be patient, and learn your mistakes.
 
 [github](https://github.com/angellcakee)
  
