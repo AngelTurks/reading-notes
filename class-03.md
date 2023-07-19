@@ -1,4 +1,4 @@
-## What is Version Control?
+# What is Version Control?
 
 Version control is a system that allows you to revisit various versions of a file or set of files by recording changes.
 
