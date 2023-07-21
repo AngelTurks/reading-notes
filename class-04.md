@@ -11,7 +11,7 @@ The tree main parts of HTML are
 
 ## What is it called when you give an element extra information?
 
-Attribute
+Attribute.
 
 ## What is a semantic element?
 
